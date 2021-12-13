@@ -1,4 +1,4 @@
-### ✨  Hi there, I´m NelsonDJCR 👋
+# ✨  Hi there, I´m NelsonDJCR 👋
 
 ⭐:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::⭐
 - 🔭 I’m currently working on Hard Logistic
@@ -10,12 +10,12 @@
 ⭐:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::⭐
 
 
-### Maybe this will help you
+## Maybe this will help you
 
 
 
 
-# Git show Config
+### Git show Config
 ```
 git config --global user.name 
 git config --global user.email
@@ -24,7 +24,7 @@ git config --global user.email "new@email.developer"
 
 ```
 
-# Config project
+### Config project
 
 ```
 git init
