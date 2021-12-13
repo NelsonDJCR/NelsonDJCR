@@ -38,7 +38,7 @@ git push -u origin master
 git push --set-upstream origin master
 ```
 
-# Branch´s
+### Branch´s
 
 ```
 git remote update origin --prune
