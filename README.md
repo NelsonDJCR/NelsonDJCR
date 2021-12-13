@@ -52,7 +52,6 @@ git log --oneline
 git log --oneline > exportOneline.txt
 
 git merge nameBranch
-
 ```
 
 ```
