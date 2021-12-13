@@ -64,6 +64,7 @@ git checkout .
 git remote -v
 
 git status
+git show
 ```
 
 
