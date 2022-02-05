@@ -18,10 +18,11 @@ composer require laravelcollective/html
 php artisan vendor:publish --tag=laravel-pagination
 
 #Providers
+-------------
 Collective\Html\HtmlServiceProvider::class,
 
 #Alies:
-
+-------------
 'Form' => Collective\Html\FormFacade::class,
 'Html' => Collective\Html\HtmlFacade::class,
 
