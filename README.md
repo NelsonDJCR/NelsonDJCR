@@ -13,14 +13,14 @@
 ⭐ Install my snipets
 [Click Here](https://github.com/NelsonDJCR/snippets)
 
-More...
+#More...
 composer require laravelcollective/html
 php artisan vendor:publish --tag=laravel-pagination
 
-Providers
+#Providers
 Collective\Html\HtmlServiceProvider::class,
 
-Alies:
+#Alies:
 
 'Form' => Collective\Html\FormFacade::class,
 'Html' => Collective\Html\HtmlFacade::class,
