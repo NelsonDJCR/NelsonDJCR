@@ -10,8 +10,11 @@
 ⭐:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::⭐
 
 
-## Maybe this will help you
+⭐ Install my snipets
+[Click Here](https://github.com/NelsonDJCR/snippets)
 
+
+## Maybe this will help you
 
 
 
@@ -67,4 +70,4 @@ git show
 ```
 
 
-With ❤ by NelsonDJCR | 2022
+With ❤ by [NelsonDJCR](http://nelsondjcr.com) | 2022
