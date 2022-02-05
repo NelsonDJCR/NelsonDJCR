@@ -14,6 +14,7 @@
 [Click Here](https://github.com/NelsonDJCR/snippets)
 
 #More...
+-------------
 composer require laravelcollective/html
 php artisan vendor:publish --tag=laravel-pagination
 
