@@ -15,7 +15,7 @@
 
 #More...
 -------------
-```
+```html
 composer require laravelcollective/html
 php artisan vendor:publish --tag=laravel-pagination
 ```
