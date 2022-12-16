@@ -20,10 +20,9 @@
 
 ### Git show Config
 ```
-git config --global user.name 
-git config --global user.email
 git config --global user.name "new name developer"
 git config --global user.email "new@email.developer"
+git config --global core.editor "code"
 
 ```
 
