@@ -1,8 +1,9 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=NelsonDJCR%20|%20Full%20Stack%20Developer%20%E2%9D%A4%20&width=800&height=110)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=NelsonDJCR%20|%20Full%20Stack%20Developer%20%E2%9D%A4%20&width=900&height=110)](https://github.com/Akshay090/svg-banners)
 
 
 <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -43,7 +44,6 @@
   </p>
   
 </details>
-****
 
 
 
@@ -51,8 +51,5 @@
 [Click Here](https://github.com/NelsonDJCR/snippets)
 
 
-## Maybe this will help you
 
-
-
-With ❤ by [NelsonDJCR](http://nelsondjcr.com) | 2022
+With ❤ by [NelsonDJCR](http://nelsondjcr.com) | 2023
