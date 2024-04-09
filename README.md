@@ -2,9 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=nelsondjcr)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=atul-gairola&show_icons=true&count_private=true&custom_title=Repository-Stats&hide=stars&disable_animations&include_all_commits=true" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-gairola&layout=compact&langs_count=7" /></p>
 
 <details open> 
   
