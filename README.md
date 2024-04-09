@@ -1,7 +1,13 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=NelsonDJCR%20|%20Full%20Stack%20Developer%20%E2%9D%A4%20&width=900&height=110)](https://github.com/Akshay090/svg-banners)
 
+![](https://komarev.com/ghpvc/?username=nelsondjcr)
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=atul-gairola&show_icons=true&count_private=true&custom_title=Repository-Stats&hide=stars&disable_animations&include_all_commits=true" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-gairola&layout=compact&langs_count=7" /></p>
 
 <details open> 
+  
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
