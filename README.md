@@ -22,7 +22,7 @@
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=laravel,django,react,vue,bootstrap,jquery" />
+      <img src="https://skillicons.dev/icons?i=laravel,django,react,vue,bootstrap,jquery,svelte,tailwind&perline=3" />
     </a>
   </p>
   <h3>Database</h3>
@@ -32,11 +32,11 @@
       <img src="https://skillicons.dev/icons?i=sqlite,mongo,mysql,postgres" />
     </a>
   </p>
-  <h3>Sever</h3>
+  <h3>Server</h3>
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws" />
+      <img src="https://skillicons.dev/icons?i=aws,appwrite,supabase" />
     </a>
   </p>
   <h3>Versión control</h3>
