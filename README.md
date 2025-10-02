@@ -49,14 +49,15 @@ With ❤ by [NelsonDJCR](http://nelsondjcr.com) | 2023
 <details open> 
   
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
- 
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,php,py" /><img src="https://skillicons.dev/icons?i=laravel,django,react,vue,bootstrap,jquery,svelte,tailwind&perline=3" /> <img src="https://skillicons.dev/icons?i=sqlite,mongo,mysql,postgres" /><img src="https://skillicons.dev/icons?i=aws,appwrite,supabase" /> <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+      <img src="https://skillicons.dev/icons?i=js,php,py" />
+      <img src="https://skillicons.dev/icons?i=laravel,django,react,vue,bootstrap,jquery,svelte,tailwind" />
+      <img src="https://skillicons.dev/icons?i=sqlite,mongo,mysql,postgres" />
+      <img src="https://skillicons.dev/icons?i=aws,appwrite,supabase" />
+      <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
     </a>
   </p>
 
