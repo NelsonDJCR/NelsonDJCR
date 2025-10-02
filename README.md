@@ -5,7 +5,7 @@
 
 ## Hi there 👋
 
-<img src="https://raw.githubusercontent.com/nelsondjcr/nelsondjcr/master/avatar.png" align="right" alt="Emoji avatar of me"/>
+<img src="https://raw.githubusercontent.com/ilicmarko/ilicmarko/master/pewpew.png" align="right" alt="Emoji avatar of me with pew pew words"/>
 
 I am a passionate Full Stack Developer from Colombia with 6 years of experience building web applications. My focus is on creating efficient, scalable, and user-friendly solutions using Laravel, Vue, Svelte, TypeScript, and SQL/NoSQL databases. I enjoy exploring new technologies, optimizing workflows, and integrating AI tools to enhance productivity.
 
