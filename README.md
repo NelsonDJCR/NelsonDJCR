@@ -3,6 +3,32 @@
 ![](https://komarev.com/ghpvc/?username=nelsondjcr)
 
 
+## Hi there 👋
+
+<img src="https://raw.githubusercontent.com/nelsondjcr/nelsondjcr/master/avatar.png" align="right" alt="Emoji avatar of me"/>
+
+I am a passionate Full Stack Developer from Colombia with 6 years of experience building web applications. My focus is on creating efficient, scalable, and user-friendly solutions using Laravel, Vue, Svelte, TypeScript, and SQL/NoSQL databases. I enjoy exploring new technologies, optimizing workflows, and integrating AI tools to enhance productivity.
+
+I continuously experiment with new tools, frameworks, and cloud services to stay at the forefront of modern web development, delivering projects that have real impact.
+
+Topics I am passionate about:
+- Full Stack development, backend APIs, microservices.
+- Frontend frameworks like Vue, Svelte, and modular component design.
+- Cloud services: AWS (EC2, S3, Lambda, RDS, SQS, SNS), GCP, Azure.
+- Code quality, testing (unit, integration, e2e), and best practices (SOLID, design patterns).
+- AI-assisted development with GitHub Copilot, Cursor, and other tools.
+
+### Other Facts
+- 📰 I enjoy documenting and sharing knowledge in blogs or portfolios. [Portfolio](https://nelsondjcr.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nelsondjcr)
+- ⚡ Fun fact: I’m a cyclist, gamer, and football lover.
+
+## Stack
+I prefer to stay flexible and framework-agnostic. For frontend, I choose **Vue** or **Svelte**; for backend, **Laravel** with TypeScript/Node.js integrations.
+
+
+
+
 
 <details open> 
   
