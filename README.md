@@ -52,42 +52,15 @@ With ❤ by [NelsonDJCR](http://nelsondjcr.com) | 2023
   
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+ 
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,php,py" />
+      <img src="https://skillicons.dev/icons?i=js,php,py" /><img src="https://skillicons.dev/icons?i=laravel,django,react,vue,bootstrap,jquery,svelte,tailwind&perline=3" /> <img src="https://skillicons.dev/icons?i=sqlite,mongo,mysql,postgres" /><img src="https://skillicons.dev/icons?i=aws,appwrite,supabase" /> <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
     </a>
   </p>
 
-  <h3>Frameworks and libraries</h3>
   
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=laravel,django,react,vue,bootstrap,jquery,svelte,tailwind&perline=3" />
-    </a>
-  </p>
-  <h3>Database</h3>
-  
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=sqlite,mongo,mysql,postgres" />
-    </a>
-  </p>
-  <h3>Server</h3>
-  
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,appwrite,supabase" />
-    </a>
-  </p>
-  <h3>Versión control</h3>
-  
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
-    </a>
-  </p>
   
 </details>
 
