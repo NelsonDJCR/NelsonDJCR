@@ -41,7 +41,7 @@ With ❤ by [NelsonDJCR](http://nelsondjcr.com) | 2023
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 
-  <a href="https://github.com/nelsondjcr/github-readme-activity-graph"><img alt="nelsondjcr's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=nelsondjcr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  
   
 </details>
 
@@ -53,7 +53,7 @@ With ❤ by [NelsonDJCR](http://nelsondjcr.com) | 2023
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=laravel,django,react,vue,bootstrap,jquery,svelte,ts,tailwind,js,php,py,sqlite,mongodb,mysql,postgres,aws,appwrite,supabase,netlify,npm,pnpm,notion,git,vscode,github,gitlab,&perline=8" />
+      <img src="https://skillicons.dev/icons?i=laravel,django,react,vue,bootstrap,jquery,svelte,ts,tailwind,js,php,py,sqlite,mongodb,mysql,postgres,aws,appwrite,supabase,netlify,npm,pnpm,notion,git,vscode,github,gitlab" />
     </a>
   </p>
 
