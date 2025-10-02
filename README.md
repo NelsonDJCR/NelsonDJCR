@@ -1,7 +1,5 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=NelsonDJCR%20|%20Full%20Stack%20Developer%20%E2%9D%A4%20&width=900&height=110)](https://github.com/Akshay090/svg-banners)
 
-![](https://komarev.com/ghpvc/?username=nelsondjcr)
-
 
 ## Hi there 👋
 
@@ -27,7 +25,7 @@ Topics I am passionate about:
 I prefer to stay flexible and framework-agnostic. For frontend, I choose **Vue** or **Svelte**; for backend, **Laravel** with TypeScript/Node.js integrations.
 
 
-
+![](https://komarev.com/ghpvc/?username=nelsondjcr)
 
 
 <details open> 
