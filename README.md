@@ -53,11 +53,7 @@ With ❤ by [NelsonDJCR](http://nelsondjcr.com) | 2023
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,php,py" />
-      <img src="https://skillicons.dev/icons?i=laravel,django,react,vue,bootstrap,jquery,svelte,tailwind" />
-      <img src="https://skillicons.dev/icons?i=sqlite,mongo,mysql,postgres" />
-      <img src="https://skillicons.dev/icons?i=aws,appwrite,supabase" />
-      <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+      <img src="https://skillicons.dev/icons?i=laravel,django,react,vue,bootstrap,jquery,svelte,tailwind,js,php,py,sqlite,mongo,mysql,postgres,aws,appwrite,supabase,git,github,gitlab" />
     </a>
   </p>
 
